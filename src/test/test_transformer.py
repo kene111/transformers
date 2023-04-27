@@ -30,4 +30,3 @@ target = torch.tensor([[0, 1, 7, 4, 3, 5, 9, 2, 8, 10, 9, 1],
 model = Transformer(config)
 model_output = model(src,target)
 print(model_output)
-print(model_output.size())
