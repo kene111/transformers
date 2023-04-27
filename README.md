@@ -16,6 +16,8 @@ In the transformer_baseline folder:
 ### To test the script works, run:
 ```python test/test_transformer.py```
 
+A successful run would display the model architecture.
+
 
 
 
