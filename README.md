@@ -1,6 +1,5 @@
 # transformers
-This repository contains the Implementation of the Transformers Architecture from the research paper ["Attention is all you need"](https://arxiv.org/abs/1706.03762) using the pytorch framework. This is repo created for two purposes, One, to understand the inner workings of the architecture as it the backbone of many high performing large language models, and is also being used in computer vision related tasks. The second is being able to know what layers to alter, and how to alter it if the need be. This could for the purpose of model compression, model optimization, and so on.
-
+This repository contains the Implementation of the Transformers Architecture from the research paper ["Attention is all you need"](https://arxiv.org/abs/1706.03762) using the pytorch framework. This repo is created for two purposes, One, to understand the inner workings of the architecture as it the backbone of many high performing large language models, and it's principles is also being applied to computer vision related tasks. The second is being able to know what layers to alter, and how to alter them if the need be. This could be for the purpose of model compression, model optimization, and so on.
 
 ### Repository Breakdown:
 
